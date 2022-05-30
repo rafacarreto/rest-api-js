@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafacarreto/rest-api-js.git"
+  },
+  "author": "Rafael carreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafacarreto/rest-api-js/issues"
+  },
+  "homepage": "https://github.com/rafacarreto/rest-api-js#readme"
+}
